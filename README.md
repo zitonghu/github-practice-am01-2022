@@ -47,3 +47,4 @@
 |18| Juan Sanchez-Blanco | 3 | juansbg | <https://github.com/juansbg/stats_website_22> | <https://juansbg.netlify.app/> | 2022-09-01 |
 |19|Christoph Plachutta |8| ChrisPlta | <https://github.com/ChrisPlta/AM01_website22_CP> | <https://a-chrisp-portfolio.netlify.app> | 2022-09-01 |
 |20|Neha Dagade |10| nehadagade | <https://github.com/nehadagade/mywebsite> |  | 2022-09-01 |
+|21|Zitong Hu |7| zitonghu | <https://github.com/zitonghu> |https://app.netlify.com/teams/zitonghu/ | 2022-09-01|
